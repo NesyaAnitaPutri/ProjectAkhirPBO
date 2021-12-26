@@ -16,15 +16,14 @@ Kelompok 10's work divisions:
 Nesya Anita Putri Handle:
 Perusahaan.java
 Rekening.java
-Utama.java
-DBHelper.java
-NasabahFormController.java
+dbHelper.java
+FormNasabahController.java
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 Delia Vergarefta  Handle:
 Design Diagram
 Individu.java
-Design NasabahForm.fxml
+Design FormNasabah.fxml
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 Lara Laylathul Sya'adah Handle:

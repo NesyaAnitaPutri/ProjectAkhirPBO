@@ -23,7 +23,6 @@ NasabahFormController.java
 -------------------------------------------------------------------------------------------------------------------------------------------
 Delia Vergarefta  Handle:
 Design Diagram
-Error Handling
 Individu.java
 Design NasabahForm.fxml
 
